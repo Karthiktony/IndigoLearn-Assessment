@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #2a206a;
+  width: 100%;
+  color: #ffffff;
+  font-family: 'Arial';
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.indigo {
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.line {
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.login-button {
+  background-color: #ffffff;
+  color: #2a206a;
+  border: none;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+
+.profile {
+  color: blueviolet;
+  margin-right: 10px;
+  font-size: 20px;
+}

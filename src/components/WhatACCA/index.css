@@ -1,0 +1,81 @@
+.what-conatiner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Arial';
+  font-size: 16px;
+  margin-top: 50px;
+}
+
+.underline {
+  display: flex;
+  width: 100px;
+  border-radius: 20px;
+  height: 15px;
+  background-color: #2a206a;
+}
+
+.what-is-Acca {
+  font-size: 45px;
+  font-weight: 500;
+}
+
+.box-heading {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.level {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.level-icon {
+  margin-right: 8px;
+}
+
+.list-cont {
+  background-color: #dadaf1;
+  width: 90%;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.li-item {
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.li-items {
+  padding-bottom: 0px;
+}
+
+.box-container {
+  display: flex;
+  flex-wrap: 1;
+}
+
+.box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 5px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 21vw;
+  text-align: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  text-align: start;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
