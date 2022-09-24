@@ -1,8 +1,3 @@
-# Class Component and State
+IndigoLearn Assignment
 
-- Class Component
-  - Syntax
-- Handling Events in React
-  - Syntax
-- State
-  - setState()
+Name: Karthik Addakula
